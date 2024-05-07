@@ -45,3 +45,5 @@ The logs do not produce much honey - this is primarily an ideological step, all 
 And they are recovering, albeit so slowly and so many times they have to do it all over again...
 
 🌳 Growing a man-made edible forest in the middle of a field is extremely difficult. 
+
+Continue [here](https://medium.com/@rodovidme/terraformation-b0235dde32b0)
