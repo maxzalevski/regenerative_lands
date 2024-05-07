@@ -3,7 +3,9 @@
 
 Here are some archival photos from 20 years ago from the ecovillage of Kedry Polissia in Ukraine. How the process of regeneration of degraded land, abandoned collective farm fields takes place. When ecovillagers come there.
 
-[Regenerative lands](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*UZeHxXCF4y63rkT2m86iyA.jpeg)
+![Regenerative lands](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*UZeHxXCF4y63rkT2m86iyA.jpeg)
+
+
 Of course, it is difficult to convey all the beauty and scale in one photo. Without shooting from a drone, for example, the same 50 hectares of area. But you probably get the idea. 
 
 A field was burned down and now there is a blooming forest.
