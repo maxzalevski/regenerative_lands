@@ -47,3 +47,6 @@ And they are recovering, albeit so slowly and so many times they have to do it a
 🌳 Growing a man-made edible forest in the middle of a field is extremely difficult. 
 
 Continue [here](https://medium.com/@rodovidme/terraformation-b0235dde32b0)
+
+Bee Houses for Solitary Osmia Bees in the Rosy Ecovillage
+[Story](https://github.com/maxzalevski/regenerative_lands/issues/12)
