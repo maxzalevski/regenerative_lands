@@ -1,4 +1,8 @@
 # regenerative_lands
+
+[Report on GG20 Fundraising Round for the "Rewilding for Ecovillages in Ukraine" Project](https://github.com/maxzalevski/regenerative_lands/issues/13)
+
+
 **What ecosystem restoration looks like. Regenerative Ecovillages 🌾🐝**
 
 Here are some archival photos from 20 years ago from the ecovillage of Kedry Polissia in Ukraine. How the process of regeneration of degraded land, abandoned collective farm fields takes place. When ecovillagers come there.
