@@ -12,7 +12,8 @@ The Green Lagoon Landscape Reserve Project in Granidub and Posolon Ecovillages
 Project "Bhumy" in Ukraine: A Cow-Centered Sustainable Development Model
 [Story](https://github.com/maxzalevski/regenerative_lands/issues/15)
 
-[Holistic Planned Grazing Management for Biodiversity Restoration: Experience from the Podkova Research Farm at the Hlyboki Balyky Ecostation](https://github.com/maxzalevski/regenerative_lands/issues/16)
+Holistic Planned Grazing Management for Biodiversity Restoration: Experience from the Podkova Research Farm at the Hlyboki Balyky Ecostation
+[Story](https://github.com/maxzalevski/regenerative_lands/issues/16)
 
 Bee Houses for Solitary Osmia Bees in the Rosy Ecovillage
 [Story](https://github.com/maxzalevski/regenerative_lands/issues/12)
