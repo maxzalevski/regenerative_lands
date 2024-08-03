@@ -8,5 +8,8 @@ Here are some archival photos from 20 years ago from the ecovillage of Kedry Pol
 
 ![Regenerative lands](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*UZeHxXCF4y63rkT2m86iyA.jpeg)
 
+The Green Lagoon Landscape Reserve Project in Granidub and Posolon Ecovillages
+[Story](https://github.com/maxzalevski/regenerative_lands/issues/14)
+
 Bee Houses for Solitary Osmia Bees in the Rosy Ecovillage
 [Story](https://github.com/maxzalevski/regenerative_lands/issues/12)
