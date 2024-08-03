@@ -11,5 +11,8 @@ Here are some archival photos from 20 years ago from the ecovillage of Kedry Pol
 The Green Lagoon Landscape Reserve Project in Granidub and Posolon Ecovillages
 [Story](https://github.com/maxzalevski/regenerative_lands/issues/14)
 
+Project "Bhumy" in Ukraine: A Cow-Centered Sustainable Development Model
+[Story](https://github.com/maxzalevski/regenerative_lands/issues/15)
+
 Bee Houses for Solitary Osmia Bees in the Rosy Ecovillage
 [Story](https://github.com/maxzalevski/regenerative_lands/issues/12)
