@@ -16,6 +16,8 @@ Holistic Planned Grazing Management for Biodiversity Restoration: Experience fro
 Bee Houses for Solitary Osmia Bees in the Rosy Ecovillage
 [Story](https://github.com/maxzalevski/regenerative_lands/issues/12)
 
+Restoring the Samara River in ecovillage Vasylivka, Dnipro Region [Story](https://github.com/maxzalevski/regenerative_lands/issues/17)
+
 Here are some archival photos from 20 years ago from the ecovillage of Kedry Polissia in Ukraine. How the process of regeneration of degraded land, abandoned collective farm fields takes place. When ecovillagers come there.
 
 ![Regenerative lands](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*UZeHxXCF4y63rkT2m86iyA.jpeg)
