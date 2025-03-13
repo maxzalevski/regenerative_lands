@@ -21,6 +21,9 @@ Restoring the Samara River in ecovillage Vasylivka, Dnipro Region [Story](https:
 Climate Resilience & Land Regeneration in a War Zone: Vasylivka Ecovillage’s Fight Against Desertification #22
 [Story](https://github.com/maxzalevski/regenerative_lands/issues/22)
 
+Obyrok – A Story of Resilience and Renewal [Story](https://github.com/maxzalevski/regenerative_lands/issues/24)
+
+
 Here are some archival photos from 20 years ago from the ecovillage of Kedry Polissia in Ukraine. How the process of regeneration of degraded land, abandoned collective farm fields takes place. When ecovillagers come there.
 
 ![Regenerative lands](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*UZeHxXCF4y63rkT2m86iyA.jpeg)
