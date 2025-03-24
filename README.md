@@ -4,6 +4,9 @@
 
 [What ecosystem restoration looks like. Regenerative lands ecovillages](https://medium.com/@rodovidme/what-ecosystem-restoration-looks-like-regenerative-lands-ecovillages-879fda4b19d5)
 
+New updates Lake in Tepla Gora 
+[Story](https://github.com/maxzalevski/regenerative_lands/issues/11)
+
 The Green Lagoon Landscape Reserve Project in Granidub and Posolon Ecovillages
 [Story](https://github.com/maxzalevski/regenerative_lands/issues/14)
 
