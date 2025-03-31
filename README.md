@@ -4,6 +4,9 @@
 
 [What ecosystem restoration looks like. Regenerative lands ecovillages](https://medium.com/@rodovidme/what-ecosystem-restoration-looks-like-regenerative-lands-ecovillages-879fda4b19d5)
 
+Ecotrail Hlyboki Balyky 
+[Story](https://github.com/maxzalevski/regenerative_lands/issues/27)
+
 New updates Lake in Tepla Gora 
 [Story](https://github.com/maxzalevski/regenerative_lands/issues/11)
 
