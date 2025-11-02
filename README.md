@@ -2,6 +2,8 @@
 
 [Report on GG20 Fundraising Round for the "Rewilding for Ecovillages in Ukraine" Project](https://github.com/maxzalevski/regenerative_lands/issues/13)
 
+[Restoring Bomb-Damaged Soil: The “Rozum Warm Beds” Method in Action Ecocenter Radaria](https://github.com/maxzalevski/regenerative_lands/issues/30)
+
 [What ecosystem restoration looks like. Regenerative lands ecovillages](https://medium.com/@rodovidme/what-ecosystem-restoration-looks-like-regenerative-lands-ecovillages-879fda4b19d5)
 
 Ecotrail Hlyboki Balyky 
